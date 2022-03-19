@@ -1,2 +1,3 @@
 # The-Spark-Foundation-Web-Dev-Intern-
-Internship Tasks 5
+Internship Task 5
+Internship Task 3
